@@ -16,4 +16,4 @@ creative pen on codepen.io that I invent it :}
 ~ fog splash effect, in early games that is creative thing with lua engin
 <img src="https://splianel.sirv.com/splash%20effect.png" width="70%" height="70%" alt="" />
 
-🎃 made with ❤️ by cloudlocki🎃
+made with ❤️ by cloudlocki ☺️
