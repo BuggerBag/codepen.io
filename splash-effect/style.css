@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+#canvas {
+  width: 600px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  
+  cursor: pointer;
+}
+
+#front,
+#canvas {
+  display: none;
+}
