@@ -1,0 +1,7 @@
+body{
+  overflow:hidden;
+  font-family:'Rakkas';
+}
+#pixiCanvas{
+  position:absolute;
+}
