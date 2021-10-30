@@ -34,5 +34,6 @@ creative pen on codepen.io that I invent it :}
 <img src="https://splianel.sirv.com/castel.png" width="70%" height="70%" alt="" />
 
 <br>
-made with ❤️ by cloudlocki ☃️<br>
+made with ❤️ by cloudlocki ☃️
+
 ![cloud9020locki](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
