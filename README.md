@@ -2,7 +2,7 @@
 
 -----------------------------
 
-<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg" width="50%" height="50%>
+<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg" width="50%" height="50%">
                                                                                                                 
 -----------------------------
                                                                                                                                         
