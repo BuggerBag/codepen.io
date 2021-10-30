@@ -1,7 +1,7 @@
 # Hi, codepen.io ❤️ 
 
 -----------------------------
-<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg" width="50%" height="50% alt="cloud9020locki">
+<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg" width="50%" height="50%>
 -----------------------------
                                                                                                                                         
 creative pen on codepen.io that I invent it :}
