@@ -1,7 +1,5 @@
 # Hi, codepen.io ❤️
 
-![github profile](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
-
 creative pen on codepen.io that I invent it :}
 > https://codepen.io/cloudi/pen/XWMWrjR <br>
 ~ using svg in body with some bubble
@@ -37,3 +35,4 @@ creative pen on codepen.io that I invent it :}
 
 <br>
 made with ❤️ by cloudlocki ☃️
+![cloud9020locki](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
